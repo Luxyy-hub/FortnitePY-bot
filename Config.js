@@ -9,8 +9,8 @@
     "level": "666",
     "bp_tier": "666",
     "status": "Lucifer Lobby Bot - Made by Lucynda",
-    "platform": "IOS",
+    "platform": "XBL",
     "friendaccept": "True",
     "joinoninvite": "False",
-    "AdminPassword": "1111"
+    "AdminPassword": "0001"
 }
