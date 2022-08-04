@@ -25,12 +25,9 @@ except ModuleNotFoundError as e:
 os.system('cls||clear')
 
 intro = Fore.LIGHTRED_EX + """
-  -----------------------------------------------------
-
-  -----------------------------------------------------
-  Made by Lucynda.
+  Made by Luxy 
 """
-
+# yes
 print(intro)
 
 def lenPartyMembers():
